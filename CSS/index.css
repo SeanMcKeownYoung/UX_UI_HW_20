@@ -14,7 +14,7 @@ body {
   .navbar {
     background-color: transparent !important;
     background-size: cover;
-    position: fixed;
+
     top: 0;
 
   }
@@ -175,6 +175,7 @@ body {
 .portfolio {
     padding-left: 100px;
     padding-bottom: 30px;
+    padding-top: 50px;
 }
 .card-body {
     width: 350px;
@@ -189,6 +190,10 @@ body {
 .row2 {
     padding-left: 0px;
     padding-bottom: 15px;
+}
+.row3 {
+padding-right: 10%; !important;
+padding-bottom: 20px;
 }
 
 .heading {
@@ -265,7 +270,7 @@ body {
 .footer {
     font-size:calc(6px + 0.6vw);
     background-color: transparent;
-    position: relative;
+
     bottom: 0;
     width: 100%;
     display: flex;
