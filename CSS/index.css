@@ -23,8 +23,13 @@ body {
     color: #CFBB01;
     font-weight: 400;
     padding-top: 15px;
-    padding-left: 5%;
+    padding-left: 115px;
     padding-right: 20px;
+    padding-bottom: 2px;
+  }
+  .nav-brand:hover {
+    background-color:#CFBB01;
+    color: #ffffff;
   }
 
 
